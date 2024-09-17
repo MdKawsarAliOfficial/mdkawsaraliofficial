@@ -16,18 +16,18 @@ Skills: Git & Github / REACT / jQuery / JS / Figma / Tailwind CSS / Bootstrap5 /
 - 📫 How to reach me: www.linkedin.com/in/mdkawsaraliofficial/ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/www.github.com/mdkawsaraliofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdkawsaraliofficial//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/MdKawsarAliOfficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdkawsaraliofficial//)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=www.github.com/mdkawsaraliofficial)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=github.com/MdKawsarAliOfficial)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=www.github.com/mdkawsaraliofficial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/MdKawsarAliOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=www.github.com/mdkawsaraliofficial&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/MdKawsarAliOfficial&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/www.github.com/mdkawsaraliofficial/contributions?format=svg&private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/github.com/MdKawsarAliOfficial/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/www.github.com/mdkawsaraliofficial)  
+![GitHub metrics](https://metrics.lecoq.io/github.com/MdKawsarAliOfficial)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=www.github.com/mdkawsaraliofficial)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=github.com/MdKawsarAliOfficial)  
