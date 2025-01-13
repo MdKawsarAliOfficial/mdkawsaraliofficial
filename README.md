@@ -38,14 +38,14 @@
             <td align="center" width="70px" style="border: 1px solid #ddd; border-collapse: collapse; padding: 10px; background-color: #f0f0f0;">
                 <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://www.passportjs.org/images/logo.svg" alt="passport" width="40" height="40"/> </a> <br> <p style="margin-top: 10px;">PassportJS</p>
             </td>
+        </tr>
+        <tr style="border: 1px solid #ddd; border-collapse: collapse;">
             <td align="center" width="70px" style="border: 1px solid #ddd; border-collapse: collapse; padding: 10px; background-color: #f0f0f0;">
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <br> <p style="margin-top: 10px;">React</p>
             </td>
             <td align="center" width="70px" style="border: 1px solid #ddd; border-collapse: collapse; padding: 10px; background-color: #f0f0f0;">
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="40"/></a> <br> <p style="margin-top: 10px;">Bootstrap</p>
             </td>
-        </tr>
-        <tr style="border: 1px solid #ddd; border-collapse: collapse;">
             <td align="center" width="70px" style="border: 1px solid #ddd; border-collapse: collapse; padding: 10px; background-color: #f0f0f0;">
                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <br> <p style="margin-top: 10px;">Tailwind</p>
             </td>
@@ -55,6 +55,8 @@
             <td align="center" width="70px" style="border: 1px solid #ddd; border-collapse: collapse; padding: 10px; background-color: #f0f0f0;">
                 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <br> <p style="margin-top: 10px;">CSS3</p>
             </td>
+        </tr>
+        <tr style="border: 1px solid #ddd; border-collapse: collapse;">
             <td align="center" width="70px" style="border: 1px solid #ddd; border-collapse: collapse; padding: 10px; background-color: #f0f0f0;">
                 <a href="https://github.com/mdkawsaraliofficial/" target="_blank" rel="noreferrer"> <img style="max-width: 100%;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" alt="git" width="40" height="40"/></a> <br> <p style="margin-top: 10px;">GitHub</p>
             </td>
